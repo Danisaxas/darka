@@ -1,0 +1,17 @@
+{
+    "name": "danluis/phpweb",
+    "autoload": {
+        "psr-4": {
+            "Danluis\\Phpweb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danisaxas",
+            "email": "cuentaregali178@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.3"
+    }
+}
