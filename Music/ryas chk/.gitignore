@@ -1,0 +1,7 @@
+*.log
+*.tmp
+.git/
+.vscode/
+*.zip
+*.bak
+*.swp
